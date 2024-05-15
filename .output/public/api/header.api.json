@@ -1,0 +1,330 @@
+{
+  "infos": {
+    "loggo": "/logos/jci_logo.png"
+  },
+  "headers": [
+    {
+      "name": "Accueil",
+      "route": "/",
+      "more": false,
+      "more_data": []
+    },
+    {
+      "name": "Activités",
+      "route": "/activity",
+      "more": false,
+      "more_data": []
+    },
+    {
+      "name": "Pasts Presidents",
+      "route": "/pasts_presidents",
+      "more": false,
+      "more_data": []
+    },
+    {
+      "name": "A Propos",
+      "route": "/a_propos",
+      "more": false,
+      "more_data": []
+    },
+    {
+      "name": "Notre equipe",
+      "route": "/teams",
+      "more": false,
+      "more_data": []
+    }
+  ],
+  "contacts": [
+    {
+      "name": "jciseguelagmail.com",
+      "icon": "ri-mail-line"
+    },
+    {
+      "name": "Séguéla, Côte d'ivoire",
+      "icon": "ri-map-pin-2-line"
+    },
+    {
+      "name": "+2250707310757",
+      "icon": "ri-customer-service-2-line"
+    }
+  ],
+  "media_sociaux": [
+    {
+      "icon": "ri-facebook-circle-fill",
+      "name": "Facebook",
+      "redirect": "https://web.facebook.com/profile.php?id=100005056308168",
+      "actived": true
+    },
+    {
+      "icon": "ri-twitter-x-fill",
+      "name": "Twitter",
+      "redirect": "",
+      "actived": true
+    },
+    {
+      "icon": "ri-instagram-fill",
+      "name": "Instagram",
+      "redirect": "",
+      "actived": true
+    }
+  ],
+  "banners": [
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/0.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024",
+      "description": "L'objectif est d'améliorer les performances des membres, d'optimiser les processus internes et de favoriser le développement professionnel au sein de l'organisation."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/0.jpg",
+      "title": "Activités communautaire de don de sang...",
+      "description": "Organiser des activités pour marquer la Journée mondiale du donneur de sang, en s'attachant à promouvoir le don de sang volontaire et non rémunéré auprès du public."
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/0.jpg",
+      "title": "Convention locale nissondia 2023",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing"
+    }
+  ],
+  "activites": [
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/0.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024"
+    },
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/1.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024"
+    },
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/2.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024"
+    },
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/3.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024"
+    },
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/4.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/0.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/1.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/2.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/3.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/4.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/5.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/6.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/7.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/8.jpg",
+      "title": "Convention locale nissondia 2023"
+    },
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/0.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024"
+    },
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/1.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024"
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/2.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/3.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/4.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/5.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/6.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/7.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/8.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/9.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/10.jpg",
+      "title": "Activités communautaire de don de sang..."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/11.jpg",
+      "title": "Activités communautaire de don de sang..."
+    }
+  ],
+  "pasts_presidents": [
+    {
+      "img": "images/jci_seguela_liste_pasts_president/2 OUATTARA YACOUBA PE 2013 (2).jpg",
+      "name": "OUATTARA YACOUBA",
+      "description": "2013"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/3 KONE GNEYERI PE 2014.jpg",
+      "name": "KONE GNEYERI",
+      "description": "2014"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/4 KOFFI AYA LAURENCE PE 2015.jpg",
+      "name": "KOFFI AYA LAURENCE",
+      "description": "2015"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/6 RS 2016 PE KRA STEPHANIE.jpg",
+      "name": "KRA STEPHANIE",
+      "description": "2016"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/7 MENNEY MARIE LAURE (1) PE 2017.jpg",
+      "name": "MENNEY MARIE LAURE",
+      "description": "2017"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/10 GNAMI WILSON FABRICE (2) PE 2018.jpg",
+      "name": "GNAMI WILSON FABRICE",
+      "description": "2018"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/11 DOUMBIA MOUSSA PE  2019.jpg",
+      "name": "DOUMBIA MOUSSA",
+      "description": "2019"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/12 SERY GUEDE INNOCENT PE 2020.jpg",
+      "name": "SERY GUEDE INNOCENT",
+      "description": "2020"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/13 GAHE FRANCKLIN LUCIEN PE 2021.jpg",
+      "name": "GAHE FRANCKLIN LUCIEN",
+      "description": "2021"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/14 KONATE JEAN CEDRIC 2022.jpg",
+      "name": "KONATE JEAN CEDRIC",
+      "description": "2022"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/15 ZIKE HUGUES ULRICH PE 2023.jpg",
+      "name": "ZIKE HUGUES ULRICH",
+      "description": "2023"
+    },
+    {
+      "img": "images/jci_seguela_liste_pasts_president/KOUAO Angaman Gilbert PE 2024.jpg",
+      "name": "KOUAO Angaman Gilbert",
+      "description": "2024"
+    }
+  ],
+  "teams": [
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/PE KOUAO.jpg",
+      "name": "KOUAO",
+      "description": "PRESIDENT Exécutif"
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/IPP ZIKE ULRICH.jpg",
+      "name": "ZIKE ULRICH",
+      "description": "Past-President"
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/VPE KOBENA LAMBA.jpg",
+      "name": "KOBENA LAMBA",
+      "description": "Vice-Président Exécutif"
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/SG DIOMANDE MALIKA.jpg",
+      "name": "DIOMANDE MALIKA",
+      "description": "Secrétaire Général"
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/TG YOUZAN LOU IRINA.jpg",
+      "name": " YOUZAN LOU IRINA",
+      "description": "Trésorier Général"
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/CONSEILLER JURIDIQUE KAMAGATE BAMORY.jpg",
+      "name": "KAMAGATE BAMORY",
+      "description": "CONSEILLER JURIDIQUE"
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/DIR AFF SOSIALES ET LOISIR KOFFI AYA PHILOMENE.jpg",
+      "name": "KAMAGATE BAMORY",
+      "description": "DIR AFF SOSIALES ET LOISIR"
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/DIR FORM CROISS FOFANA VASSOULEYMANE.jpg",
+      "name": "FOFANA VASSOULEYMANE",
+      "description": "DIR FORM CROISS "
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/DIR PROTO DONGO LAVOISIER.jpg",
+      "name": "DONGO LAVOISIER",
+      "description": "DIR PROTO"
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/DIR RECOMPENSE  YEO ALIMA.jpg",
+      "name": "YEO ALIMA",
+      "description": " DIR RECOMPENSE "
+    },
+    {
+      "img": "images/jci_seguela_photos_des_membres_du_cdl/DIRCOM KOFFI RAPHAEL.jpg",
+      "name": "KOFFI RAPHAEL",
+      "description": "DIR COM"
+    }
+  ],
+  "blogs": [
+    {
+      "img": "/images/jci_photos_de_formations_internes_1_et_2_mandat_2024/0.jpg",
+      "title": "Formations internes 1 et 2 mandat 2024",
+      "description": "L'objectif est d'améliorer les performances des membres, d'optimiser les processus internes et de favoriser le développement professionnel au sein de l'organisation."
+    },
+    {
+      "img": "/images/jci_seguela__photos_d_activite_communautaire_de_don_de_sang/0.jpg",
+      "title": "Activités communautaire de don de sang...",
+      "description": "Organiser des activités pour marquer la Journée mondiale du donneur de sang, en s'attachant à promouvoir le don de sang volontaire et non rémunéré auprès du public."
+    },
+    {
+      "img": "/images/jci_seguela_convention_locale_Nissondia_2023/0.jpg",
+      "title": "Convention locale nissondia 2023",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing"
+    }
+  ]
+}
