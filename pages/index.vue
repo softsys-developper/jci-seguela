@@ -1,14 +1,14 @@
 <template>
     <div>
-    <HeadersIndexHeader />
+    <!-- <HeadersIndexHeader />
       <BannersBanner />
       <ProcessIndexProcess />
       <ProcessAboutProcess />
       <ProcessPrincipleProcess />
       <ActivityIndexActivity />
-      <PartenairesIndexPartenaire />
+      <PartenairesIndexPartenaire /> -->
       <BlogsIndexBlog />
-      <FootersIndexFooter />
+      <!-- <FootersIndexFooter /> -->
     </div>
   </template>
   
